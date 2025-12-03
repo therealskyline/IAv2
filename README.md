@@ -138,7 +138,7 @@ Tests sur 2 tâches (résumé, traduction)
 
 ### Prérequis
 ```bash
-Python 3.8+
+Python 3.10+
 PyTorch 2.0+
 transformers
 flask
