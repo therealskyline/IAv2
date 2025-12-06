@@ -148,7 +148,7 @@ flask-cors
 ### Installation
 ```bash
 git clone https://github.comtherealskyline/IAv2
-cd HessGPT
+cd IAv2
 pip install -r requi.txt
 ```
 
