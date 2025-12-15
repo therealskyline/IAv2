@@ -217,4 +217,3 @@ Pour questions ou collaborations: [silyan.silyancma@gmail.com] ou [skylineskylin
 ## IA realiser from scratch (de zero) par:
 - Silyan Larak 
 - 15 ans 
-- second 5 au lycee baudlaire
